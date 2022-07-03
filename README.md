@@ -1,6 +1,6 @@
 # Desafio de código - Recriando a página inicial do Instagram
 
-Repositório focado em Flexbox com o desafio de recriar a página inicial do Instagram utilizando html5 e CSS3
+- Repositório focado em Flexbox com o desafio de recriar a página inicial do Instagram utilizando html5 e CSS3
 
 ### Interface recriada do Instagram 
 
